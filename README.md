@@ -4,30 +4,32 @@
 
 Meu nome é Matheus Lima, tenho 29 anos sou de São Paulo. Formado Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNICSUL. Curioso em entender como as coisas funcionam, acabei caindo no mundo da programação desde então nunca mais quis sair. Desenvolvedor independente, venho aqui compartilhar meus projetos e estudos. 
 
-<p align="left">
-    <a href="mailto:contato.matheuslimams@gmail.com">
-        <img 
-            alt="contato.matheuslimams@gmail.com" 
-            title="Enviar email para contato.matheuslimams@gmail.com" 
-            src="https://custom-icon-badges.demolab.com/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-        <a href="https://www.linkedin.com/in/matheus-limams/">
-        <img 
-            alt="Linkedin" 
-            title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-236ad3?style=for-the-badge&logo=in&logoColor=white"
-        />
-    </a>
+<div>
+    <p>
+        <a href="mailto:contato.matheuslimams@gmail.com" target="_blank">
+            <img 
+                alt="contato.matheuslimams@gmail.com" 
+                title="Enviar email para contato.matheuslimams@gmail.com" 
+                src="https://custom-icon-badges.demolab.com/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" 
+            />
         </a>
-        <a href="https://www.instagram.com/matheuslima.ms/">
-        <img 
-            alt="instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/-instagram-ff2d85?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-</p>
+            <a href="https://www.linkedin.com/in/matheus-limams/" target="_blank">
+            <img 
+                alt="Linkedin" 
+                title="Me siga no Linkedin" 
+                src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0d68c2?style=for-the-badge&logo=in&logoColor=white"
+            />
+        </a>
+            </a>
+            <a href="https://www.instagram.com/matheuslima.ms/" target="_blank">
+            <img 
+                alt="instagram" 
+                title="Me siga no Instagram" 
+                src="https://custom-icon-badges.demolab.com/badge/-instagram-ff2d85?style=for-the-badge&logo=instagram&logoColor=white"
+            />
+        </a>
+    </p>
+</div>
 
 ---
 
@@ -122,28 +124,15 @@ Meu nome é Matheus Lima, tenho 29 anos sou de São Paulo. Formado Tecnólogo em
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
 />
 
-
-
 <br/>
 <br/>
-
-
 
 <!-- ### 📊 Estatísticas -->
-
-<p>
-  <!-- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheuzLima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  /> -->
-
-<img 
+<div>
+    <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuzLima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+    />
+</div>
