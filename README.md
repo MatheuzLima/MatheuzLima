@@ -5,20 +5,28 @@
 Meu nome é Matheus Lima, tenho 29 anos sou de São Paulo. Formado Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNICSUL. Curioso em entender como as coisas funcionam, acabei caindo no mundo da programação desde então nunca mais quis sair. Desenvolvedor independente, venho aqui compartilhar meus projetos e estudos. 
 
 <p align="left">
-    <!-- </a>
-        <a href="https://www.linkedin.com/in/matheus-limams/">
-        <img 
-            alt="Meu Linkedin" 
-            title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-236ad3?style=for-the-badge&logo=in&logoColor=white"
-        />
-    </a> -->
     <a href="mailto:contato.matheuslimams@gmail.com">
         <img 
             alt="contato.matheuslimams@gmail.com" 
             title="Enviar email para contato.matheuslimams@gmail.com" 
-            src="https://custom-icon-badges.demolab.com/badge/-contato.matheuslimams@gmail.com-green?style=for-the-badge&logo=mail&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
         />
+    </a>
+        <a href="https://www.linkedin.com/in/matheus-limams/">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-236ad3?style=for-the-badge&logo=in&logoColor=white"
+        />
+    </a>
+        </a>
+        <a href="https://www.instagram.com/matheuslima.ms/">
+        <img 
+            alt="instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/-instagram-ff2d85?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
@@ -138,5 +146,4 @@ Meu nome é Matheus Lima, tenho 29 anos sou de São Paulo. Formado Tecnólogo em
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuzLima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
