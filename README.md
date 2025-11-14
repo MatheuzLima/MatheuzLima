@@ -5,14 +5,14 @@
 Meu nome é Matheus Lima, tenho 29 anos sou de São Paulo. Formado Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNICSUL. Curioso em entender como as coisas funcionam, acabei caindo no mundo da programação desde então nunca mais quis sair. Desenvolvedor independente, venho aqui compartilhar meus projetos e estudos. 
 
 <p align="left">
-    </a>
+    <!-- </a>
         <a href="https://www.linkedin.com/in/matheus-limams/">
         <img 
             alt="Meu Linkedin" 
             title="Me siga no Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin-236ad3?style=for-the-badge&logo=in&logoColor=white"
         />
-    </a>
+    </a> -->
     <a href="mailto:contato.matheuslimams@gmail.com">
         <img 
             alt="contato.matheuslimams@gmail.com" 
