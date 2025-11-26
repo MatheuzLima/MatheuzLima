@@ -126,13 +126,3 @@ Meu nome é Matheus Lima, tenho 29 anos sou de São Paulo. Formado Tecnólogo em
 
 <br/>
 <br/>
-
-<!-- ### 📊 Estatísticas -->
-<div>
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuzLima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-</div>
